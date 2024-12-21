@@ -121,7 +121,7 @@ console.log("Массив пас аз shift():", mevaho); // ["Банан", "Г�
 # Бо ҳамин тамом ташакури зиёд 
 
 <div aligh="center" style="margin-top: 50px">
-<img src="./images/thanks.gif">
+<img src="./images/thanks.gif" width="800px" height="auto">
 </div>
 
 
